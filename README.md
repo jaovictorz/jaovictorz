@@ -8,6 +8,13 @@ Sou estudante do ensino medio e estou cursando T.I e apredendo as tecnologias at
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
+
+
+
+
+
+
 
 
 <h2>Contatos</h2>
@@ -23,5 +30,5 @@ Sou estudante do ensino medio e estou cursando T.I e apredendo as tecnologias at
 <li>💻 Curso de Html e Css - Curso em Video</li>
 </ul>
 <h2>Habilidades</h2>
-<p>Tenho uma boa noção das tecnologias Html e Css ja pensando em sempre construir templates intuitivos, modernos e funcional . Ja em Java Script estou cursando ainda ou seja sei so os basico </p>
+<p>Tenho uma boa noção das tecnologias Html e Css   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://github.com/jaovictorz/jaovictorz/assets/149122769/8246dbde-1634-4343-a46a-9ef9c1e567c9"> <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://github.com/jaovictorz/jaovictorz/assets/149122769/535dca32-5da0-4af3-a541-5b35b568e188"> ja pensando em sempre construir templates intuitivos, modernos e funcional . Ja em Java Script  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://github.com/jaovictorz/jaovictorz/assets/149122769/65ef0013-4c40-44b4-8512-7dc93824e454"> estou cursando ainda ou seja sei so o basico </p>
 <p> </p>
